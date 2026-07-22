@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://b40rpoxnst4pu"]
 
 [ext_resource type="Texture2D" uid="uid://chq2dtj4fh5ae" path="res://Assets/Images/Chopper/Hit (32x32).png" id="1_dqkch"]
+[ext_resource type="Script" uid="uid://bowg2u46bnjti" path="res://scripts/player.gd" id="1_qlg0r"]
 [ext_resource type="Texture2D" uid="uid://ee82ex3bcany" path="res://Assets/Images/Chopper/Idle (32x32).png" id="2_qlg0r"]
 [ext_resource type="Texture2D" uid="uid://cf8lrv3r2yfda" path="res://Assets/Images/Chopper/Jump (32x32).png" id="3_tuyoq"]
 [ext_resource type="Texture2D" uid="uid://bnx3jvyykhmhs" path="res://Assets/Images/Chopper/Run (32x32).png" id="4_fjrip"]
@@ -150,7 +151,7 @@ animations = [{
 "texture": SubResource("AtlasTexture_f1ej7")
 }],
 "loop": 1,
-"name": &"hit",
+"name": &"dying",
 "speed": 5.0
 }, {
 "frames": [{
@@ -196,7 +197,7 @@ animations = [{
 "texture": ExtResource("3_tuyoq")
 }],
 "loop": 1,
-"name": &"jump",
+"name": &"jumping",
 "speed": 20.0
 }, {
 "frames": [{
@@ -237,15 +238,23 @@ animations = [{
 "texture": SubResource("AtlasTexture_hax0n")
 }],
 "loop": 1,
-"name": &"run",
+"name": &"running",
 "speed": 20.0
 }]
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_jrxae"]
+size = Vector2(23, 25)
+
 [node name="Player" type="CharacterBody2D" unique_id=653551813]
+script = ExtResource("1_qlg0r")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=40633668]
 texture_filter = 1
+position = Vector2(-1, 0)
 sprite_frames = SubResource("SpriteFrames_jrxae")
-animation = &"hit"
-frame = 5
-frame_progress = 0.1196601
+animation = &"idle"
+autoplay = "idle"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=173965]
+position = Vector2(0, 3.5)
+shape = SubResource("RectangleShape2D_jrxae")
