@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5gssy7upsdn6"
-path="res://.godot/imported/5de9cec0-f167-4c6b-a2f5-994efce14444.png-524fe4dd1864f179d07f53c9e32fefde.ctex"
+path="res://.godot/imported/5de9cec0-f167-4c6b-a2f5-994efce14444.png-2c4c8efce292eb16cabc5a1656a0d3a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/mophair_hamering_strip23/layers/a760c7c7-2fbc-4f07-8b2e-889f31278b37/5de9cec0-f167-4c6b-a2f5-994efce14444.png"
-dest_files=["res://.godot/imported/5de9cec0-f167-4c6b-a2f5-994efce14444.png-524fe4dd1864f179d07f53c9e32fefde.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/mophair_hamering_strip23/layers/a760c7c7-2fbc-4f07-8b2e-889f31278b37/5de9cec0-f167-4c6b-a2f5-994efce14444.png"
+dest_files=["res://.godot/imported/5de9cec0-f167-4c6b-a2f5-994efce14444.png-2c4c8efce292eb16cabc5a1656a0d3a5.ctex"]
 
 [params]
 

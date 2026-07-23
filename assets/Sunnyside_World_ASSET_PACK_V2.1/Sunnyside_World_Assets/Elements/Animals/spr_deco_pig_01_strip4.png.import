@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccory7oxs1kjn"
-path="res://.godot/imported/spr_deco_pig_01_strip4.png-fe914fe1f840d3b393e1ea908ace54f9.ctex"
+path="res://.godot/imported/spr_deco_pig_01_strip4.png-dfd12aba41b8fbee7d979a605ce86c3d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Elements/Animals/spr_deco_pig_01_strip4.png"
-dest_files=["res://.godot/imported/spr_deco_pig_01_strip4.png-fe914fe1f840d3b393e1ea908ace54f9.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Elements/Animals/spr_deco_pig_01_strip4.png"
+dest_files=["res://.godot/imported/spr_deco_pig_01_strip4.png-dfd12aba41b8fbee7d979a605ce86c3d.ctex"]
 
 [params]
 

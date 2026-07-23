@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwlww2llhk7jt"
-path="res://.godot/imported/1d5dfd36-c4e9-4398-940c-1c327ff66365.png-41ae1dec143d772e1106e5a6e7c5dfdf.ctex"
+path="res://.godot/imported/1d5dfd36-c4e9-4398-940c-1c327ff66365.png-bb22c5d89c9d716e22e5cdac6e590c8a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spikeyhair_casting_strip15/layers/8a65c99d-62e1-43ab-9e18-a88a1be31530/1d5dfd36-c4e9-4398-940c-1c327ff66365.png"
-dest_files=["res://.godot/imported/1d5dfd36-c4e9-4398-940c-1c327ff66365.png-41ae1dec143d772e1106e5a6e7c5dfdf.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spikeyhair_casting_strip15/layers/8a65c99d-62e1-43ab-9e18-a88a1be31530/1d5dfd36-c4e9-4398-940c-1c327ff66365.png"
+dest_files=["res://.godot/imported/1d5dfd36-c4e9-4398-940c-1c327ff66365.png-bb22c5d89c9d716e22e5cdac6e590c8a.ctex"]
 
 [params]
 

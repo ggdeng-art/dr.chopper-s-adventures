@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cigvrkjfkrmf"
-path="res://.godot/imported/cf229acb-4a68-4c0c-9630-1d1a18637bec.png-975a2ff34ecd70a87cd0ac5a3168a3f1.ctex"
+path="res://.godot/imported/cf229acb-4a68-4c0c-9630-1d1a18637bec.png-786e3465dcf2180ed8984d6cf01b3ac0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/mophair_hurt_strip8/cf229acb-4a68-4c0c-9630-1d1a18637bec.png"
-dest_files=["res://.godot/imported/cf229acb-4a68-4c0c-9630-1d1a18637bec.png-975a2ff34ecd70a87cd0ac5a3168a3f1.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/mophair_hurt_strip8/cf229acb-4a68-4c0c-9630-1d1a18637bec.png"
+dest_files=["res://.godot/imported/cf229acb-4a68-4c0c-9630-1d1a18637bec.png-786e3465dcf2180ed8984d6cf01b3ac0.ctex"]
 
 [params]
 

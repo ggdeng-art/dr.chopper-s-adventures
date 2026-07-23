@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://njnv2co1ehwi"
-path="res://.godot/imported/931fe750-0406-4a27-9f34-71ac807b77a7.png-94029575c022671673163785bde8437d.ctex"
+path="res://.godot/imported/931fe750-0406-4a27-9f34-71ac807b77a7.png-04d99e722e143e8673860fbfa064b1b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/pumpkin_02/layers/e587fcda-80e7-4fa6-b268-8a09cbb8663d/931fe750-0406-4a27-9f34-71ac807b77a7.png"
-dest_files=["res://.godot/imported/931fe750-0406-4a27-9f34-71ac807b77a7.png-94029575c022671673163785bde8437d.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/pumpkin_02/layers/e587fcda-80e7-4fa6-b268-8a09cbb8663d/931fe750-0406-4a27-9f34-71ac807b77a7.png"
+dest_files=["res://.godot/imported/931fe750-0406-4a27-9f34-71ac807b77a7.png-04d99e722e143e8673860fbfa064b1b0.ctex"]
 
 [params]
 

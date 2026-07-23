@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bai0kq0sxee7k"
-path="res://.godot/imported/kale_02.png-c978ec1d14de9d288fb9140a9a96e20b.ctex"
+path="res://.godot/imported/kale_02.png-b4988780ad626799707312fac7532691.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Elements/Crops/kale_02.png"
-dest_files=["res://.godot/imported/kale_02.png-c978ec1d14de9d288fb9140a9a96e20b.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Elements/Crops/kale_02.png"
+dest_files=["res://.godot/imported/kale_02.png-b4988780ad626799707312fac7532691.ctex"]
 
 [params]
 

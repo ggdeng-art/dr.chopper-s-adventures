@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bm22ed4qnvsfa"
-path="res://.godot/imported/dd900547-0287-4c39-8c79-b7d93fc591d5.png-a26dc6b3699e3323482126240d5fe5a1.ctex"
+path="res://.godot/imported/dd900547-0287-4c39-8c79-b7d93fc591d5.png-97a3e50dd2ed4ebc09663fd88762dad8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/mophair_run_strip8/dd900547-0287-4c39-8c79-b7d93fc591d5.png"
-dest_files=["res://.godot/imported/dd900547-0287-4c39-8c79-b7d93fc591d5.png-a26dc6b3699e3323482126240d5fe5a1.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/mophair_run_strip8/dd900547-0287-4c39-8c79-b7d93fc591d5.png"
+dest_files=["res://.godot/imported/dd900547-0287-4c39-8c79-b7d93fc591d5.png-97a3e50dd2ed4ebc09663fd88762dad8.ctex"]
 
 [params]
 

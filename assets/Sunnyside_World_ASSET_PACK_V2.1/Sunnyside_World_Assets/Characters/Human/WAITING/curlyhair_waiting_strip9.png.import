@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djl07fi4cpalo"
-path="res://.godot/imported/curlyhair_waiting_strip9.png-bf59c1d46891c8fb54127d270fa992e8.ctex"
+path="res://.godot/imported/curlyhair_waiting_strip9.png-b0750c2f8e490375e85b63bd166654c9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/WAITING/curlyhair_waiting_strip9.png"
-dest_files=["res://.godot/imported/curlyhair_waiting_strip9.png-bf59c1d46891c8fb54127d270fa992e8.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/WAITING/curlyhair_waiting_strip9.png"
+dest_files=["res://.godot/imported/curlyhair_waiting_strip9.png-b0750c2f8e490375e85b63bd166654c9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwce68uw1711e"
-path="res://.godot/imported/1482d859-6f85-47eb-9e5e-d90aea66d84d.png-47f352c6ee9c7529468e472aac526c8a.ctex"
+path="res://.godot/imported/1482d859-6f85-47eb-9e5e-d90aea66d84d.png-ae07b4c3bfc963856a5caa6c457d9947.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/curlyhair_swimming_strip12/layers/e39e171d-993d-4a6a-aee7-4a56dd838215/1482d859-6f85-47eb-9e5e-d90aea66d84d.png"
-dest_files=["res://.godot/imported/1482d859-6f85-47eb-9e5e-d90aea66d84d.png-47f352c6ee9c7529468e472aac526c8a.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/curlyhair_swimming_strip12/layers/e39e171d-993d-4a6a-aee7-4a56dd838215/1482d859-6f85-47eb-9e5e-d90aea66d84d.png"
+dest_files=["res://.godot/imported/1482d859-6f85-47eb-9e5e-d90aea66d84d.png-ae07b4c3bfc963856a5caa6c457d9947.ctex"]
 
 [params]
 

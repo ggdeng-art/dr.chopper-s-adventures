@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3a48tpodty71"
-path="res://.godot/imported/skeleton_attack_strip7.png-259d3e21832ae9c7fc1120f365d4b2e8.ctex"
+path="res://.godot/imported/skeleton_attack_strip7.png-b79e52eb6433cfdb4f5f2a7af67c0b50.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Skeleton/PNG/skeleton_attack_strip7.png"
-dest_files=["res://.godot/imported/skeleton_attack_strip7.png-259d3e21832ae9c7fc1120f365d4b2e8.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Skeleton/PNG/skeleton_attack_strip7.png"
+dest_files=["res://.godot/imported/skeleton_attack_strip7.png-b79e52eb6433cfdb4f5f2a7af67c0b50.ctex"]
 
 [params]
 

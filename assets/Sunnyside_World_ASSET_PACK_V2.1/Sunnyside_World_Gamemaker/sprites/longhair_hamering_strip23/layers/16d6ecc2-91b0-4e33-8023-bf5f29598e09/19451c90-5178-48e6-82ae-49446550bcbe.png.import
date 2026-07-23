@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cm2v0djxdk3qk"
-path="res://.godot/imported/19451c90-5178-48e6-82ae-49446550bcbe.png-2ed679b6a2c97b2d50443de161c0828d.ctex"
+path="res://.godot/imported/19451c90-5178-48e6-82ae-49446550bcbe.png-00ed44e5a7e00a2eeeb953a3bf2ee54b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/longhair_hamering_strip23/layers/16d6ecc2-91b0-4e33-8023-bf5f29598e09/19451c90-5178-48e6-82ae-49446550bcbe.png"
-dest_files=["res://.godot/imported/19451c90-5178-48e6-82ae-49446550bcbe.png-2ed679b6a2c97b2d50443de161c0828d.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/longhair_hamering_strip23/layers/16d6ecc2-91b0-4e33-8023-bf5f29598e09/19451c90-5178-48e6-82ae-49446550bcbe.png"
+dest_files=["res://.godot/imported/19451c90-5178-48e6-82ae-49446550bcbe.png-00ed44e5a7e00a2eeeb953a3bf2ee54b.ctex"]
 
 [params]
 

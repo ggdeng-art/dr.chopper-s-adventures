@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgvgm4ouifskk"
-path="res://.godot/imported/af9efb92-88e9-46c5-8504-9096a93ef2a4.png-696bc3a147474be9616972b94887a1d1.ctex"
+path="res://.godot/imported/af9efb92-88e9-46c5-8504-9096a93ef2a4.png-97e159adcb8185d320524f5cc7d573a3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spr_deco_coracle_land/af9efb92-88e9-46c5-8504-9096a93ef2a4.png"
-dest_files=["res://.godot/imported/af9efb92-88e9-46c5-8504-9096a93ef2a4.png-696bc3a147474be9616972b94887a1d1.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spr_deco_coracle_land/af9efb92-88e9-46c5-8504-9096a93ef2a4.png"
+dest_files=["res://.godot/imported/af9efb92-88e9-46c5-8504-9096a93ef2a4.png-97e159adcb8185d320524f5cc7d573a3.ctex"]
 
 [params]
 
