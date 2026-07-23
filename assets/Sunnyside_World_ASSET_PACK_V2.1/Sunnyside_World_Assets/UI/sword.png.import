@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dppsgx4ofynv0"
-path="res://.godot/imported/sword.png-90230a1a651a121f4c6e0b285ae80553.ctex"
+path="res://.godot/imported/sword.png-2dd6bedf2ca05fb1d4dfe6381742b578.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/UI/sword.png"
-dest_files=["res://.godot/imported/sword.png-90230a1a651a121f4c6e0b285ae80553.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/UI/sword.png"
+dest_files=["res://.godot/imported/sword.png-2dd6bedf2ca05fb1d4dfe6381742b578.ctex"]
 
 [params]
 

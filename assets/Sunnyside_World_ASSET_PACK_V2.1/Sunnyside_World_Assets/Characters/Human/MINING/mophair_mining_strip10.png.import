@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://deaxau2ijfsgi"
-path="res://.godot/imported/mophair_mining_strip10.png-5db5278841c666eeee0bbc8b2df532b0.ctex"
+path="res://.godot/imported/mophair_mining_strip10.png-5937f9b812442a979bd9b2e35aa36836.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/MINING/mophair_mining_strip10.png"
-dest_files=["res://.godot/imported/mophair_mining_strip10.png-5db5278841c666eeee0bbc8b2df532b0.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/MINING/mophair_mining_strip10.png"
+dest_files=["res://.godot/imported/mophair_mining_strip10.png-5937f9b812442a979bd9b2e35aa36836.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://baxrto4s8scgm"
-path="res://.godot/imported/spikeyhair_death_strip13.png-1804a764c1b76e6159ffcaa24eb71f73.ctex"
+path="res://.godot/imported/spikeyhair_death_strip13.png-d8cf5a3132316e411c968e695dc10e50.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/DEATH/spikeyhair_death_strip13.png"
-dest_files=["res://.godot/imported/spikeyhair_death_strip13.png-1804a764c1b76e6159ffcaa24eb71f73.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/DEATH/spikeyhair_death_strip13.png"
+dest_files=["res://.godot/imported/spikeyhair_death_strip13.png-d8cf5a3132316e411c968e695dc10e50.ctex"]
 
 [params]
 

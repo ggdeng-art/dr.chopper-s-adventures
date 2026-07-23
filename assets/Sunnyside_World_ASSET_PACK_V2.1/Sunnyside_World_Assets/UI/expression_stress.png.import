@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqjlpynhdhve2"
-path="res://.godot/imported/expression_stress.png-783a726e7cb4aed09bad716e4980d1d7.ctex"
+path="res://.godot/imported/expression_stress.png-cd7f3ffdbf79af76ff103210a4ed67e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/UI/expression_stress.png"
-dest_files=["res://.godot/imported/expression_stress.png-783a726e7cb4aed09bad716e4980d1d7.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/UI/expression_stress.png"
+dest_files=["res://.godot/imported/expression_stress.png-cd7f3ffdbf79af76ff103210a4ed67e9.ctex"]
 
 [params]
 

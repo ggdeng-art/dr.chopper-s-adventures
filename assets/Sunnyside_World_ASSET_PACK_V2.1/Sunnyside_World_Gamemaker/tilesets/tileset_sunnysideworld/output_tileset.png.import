@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqpf6lc7g6gga"
-path="res://.godot/imported/output_tileset.png-34bd9b1bfda29aa086b82a0f6fbf1152.ctex"
+path="res://.godot/imported/output_tileset.png-ad53f13ae0fef08465d6a5d34a1680ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/tilesets/tileset_sunnysideworld/output_tileset.png"
-dest_files=["res://.godot/imported/output_tileset.png-34bd9b1bfda29aa086b82a0f6fbf1152.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/tilesets/tileset_sunnysideworld/output_tileset.png"
+dest_files=["res://.godot/imported/output_tileset.png-ad53f13ae0fef08465d6a5d34a1680ce.ctex"]
 
 [params]
 

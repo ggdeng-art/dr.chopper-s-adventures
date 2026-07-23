@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnycounfharc4"
-path="res://.godot/imported/376a7346-7c6f-4f36-9875-991f546a3fcb.png-b86c5898b6058705406396039d0872fb.ctex"
+path="res://.godot/imported/376a7346-7c6f-4f36-9875-991f546a3fcb.png-fc2a6facde43fb8e2af7943589019a03.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/chimneysmoke_01/376a7346-7c6f-4f36-9875-991f546a3fcb.png"
-dest_files=["res://.godot/imported/376a7346-7c6f-4f36-9875-991f546a3fcb.png-b86c5898b6058705406396039d0872fb.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/chimneysmoke_01/376a7346-7c6f-4f36-9875-991f546a3fcb.png"
+dest_files=["res://.godot/imported/376a7346-7c6f-4f36-9875-991f546a3fcb.png-fc2a6facde43fb8e2af7943589019a03.ctex"]
 
 [params]
 

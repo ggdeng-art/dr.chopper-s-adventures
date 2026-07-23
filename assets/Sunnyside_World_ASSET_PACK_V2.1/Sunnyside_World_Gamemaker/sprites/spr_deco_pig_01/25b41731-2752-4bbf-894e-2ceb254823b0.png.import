@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://p2fjb564p5tj"
-path="res://.godot/imported/25b41731-2752-4bbf-894e-2ceb254823b0.png-713514489bcbdf551a6d8df959b08889.ctex"
+path="res://.godot/imported/25b41731-2752-4bbf-894e-2ceb254823b0.png-c3fc50f4ffe337113a0d36eefe987b8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spr_deco_pig_01/25b41731-2752-4bbf-894e-2ceb254823b0.png"
-dest_files=["res://.godot/imported/25b41731-2752-4bbf-894e-2ceb254823b0.png-713514489bcbdf551a6d8df959b08889.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spr_deco_pig_01/25b41731-2752-4bbf-894e-2ceb254823b0.png"
+dest_files=["res://.godot/imported/25b41731-2752-4bbf-894e-2ceb254823b0.png-c3fc50f4ffe337113a0d36eefe987b8d.ctex"]
 
 [params]
 

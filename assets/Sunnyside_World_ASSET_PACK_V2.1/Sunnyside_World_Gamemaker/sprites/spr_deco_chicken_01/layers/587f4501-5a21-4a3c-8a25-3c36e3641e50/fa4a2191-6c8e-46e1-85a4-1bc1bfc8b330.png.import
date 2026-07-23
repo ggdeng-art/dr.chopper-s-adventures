@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8conacux72fv"
-path="res://.godot/imported/fa4a2191-6c8e-46e1-85a4-1bc1bfc8b330.png-c94e896f5a261ea9a6c9be884d9a0916.ctex"
+path="res://.godot/imported/fa4a2191-6c8e-46e1-85a4-1bc1bfc8b330.png-6c04898b20e00276e6742e19beddb4cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spr_deco_chicken_01/layers/587f4501-5a21-4a3c-8a25-3c36e3641e50/fa4a2191-6c8e-46e1-85a4-1bc1bfc8b330.png"
-dest_files=["res://.godot/imported/fa4a2191-6c8e-46e1-85a4-1bc1bfc8b330.png-c94e896f5a261ea9a6c9be884d9a0916.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spr_deco_chicken_01/layers/587f4501-5a21-4a3c-8a25-3c36e3641e50/fa4a2191-6c8e-46e1-85a4-1bc1bfc8b330.png"
+dest_files=["res://.godot/imported/fa4a2191-6c8e-46e1-85a4-1bc1bfc8b330.png-6c04898b20e00276e6742e19beddb4cb.ctex"]
 
 [params]
 

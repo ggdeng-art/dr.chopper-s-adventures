@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0koraxymiwai"
-path="res://.godot/imported/5f3010fd-99a1-479e-9792-ae2f980452cc.png-1e994d89820b69227caea0acefa34b48.ctex"
+path="res://.godot/imported/5f3010fd-99a1-479e-9792-ae2f980452cc.png-576b1944be15c953967c0bfa5c62ab58.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spikeyhair_swimming_strip12/layers/40f5f63f-5c70-41b4-a167-8bfe21799f6e/5f3010fd-99a1-479e-9792-ae2f980452cc.png"
-dest_files=["res://.godot/imported/5f3010fd-99a1-479e-9792-ae2f980452cc.png-1e994d89820b69227caea0acefa34b48.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spikeyhair_swimming_strip12/layers/40f5f63f-5c70-41b4-a167-8bfe21799f6e/5f3010fd-99a1-479e-9792-ae2f980452cc.png"
+dest_files=["res://.godot/imported/5f3010fd-99a1-479e-9792-ae2f980452cc.png-576b1944be15c953967c0bfa5c62ab58.ctex"]
 
 [params]
 
