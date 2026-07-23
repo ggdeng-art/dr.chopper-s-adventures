@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://564kt0rrcqt8"
-path="res://.godot/imported/f3caffa8-014d-487a-84a7-3183753f787d.png-477e37faffe8e5c7cfac554ab31d9624.ctex"
+path="res://.godot/imported/f3caffa8-014d-487a-84a7-3183753f787d.png-39278c0952bb1da95d43bb38bbb45045.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/longhair_roll_strip10/f3caffa8-014d-487a-84a7-3183753f787d.png"
-dest_files=["res://.godot/imported/f3caffa8-014d-487a-84a7-3183753f787d.png-477e37faffe8e5c7cfac554ab31d9624.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/longhair_roll_strip10/f3caffa8-014d-487a-84a7-3183753f787d.png"
+dest_files=["res://.godot/imported/f3caffa8-014d-487a-84a7-3183753f787d.png-39278c0952bb1da95d43bb38bbb45045.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfnj6bffv7qtc"
-path="res://.godot/imported/pumpkin_04.png-352c5bb67e777347e227530aaef67050.ctex"
+path="res://.godot/imported/pumpkin_04.png-b6e122106e1d1d8483b4142459cc9f92.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Elements/Crops/pumpkin_04.png"
-dest_files=["res://.godot/imported/pumpkin_04.png-352c5bb67e777347e227530aaef67050.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Elements/Crops/pumpkin_04.png"
+dest_files=["res://.godot/imported/pumpkin_04.png-b6e122106e1d1d8483b4142459cc9f92.ctex"]
 
 [params]
 

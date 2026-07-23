@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bux5glhqfqppl"
-path="res://.godot/imported/curlyhair_mining_strip10.png-e53f203a8eb358364faec79cb64fd380.ctex"
+path="res://.godot/imported/curlyhair_mining_strip10.png-72660077a10a4166449b5094b4cfab88.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/MINING/curlyhair_mining_strip10.png"
-dest_files=["res://.godot/imported/curlyhair_mining_strip10.png-e53f203a8eb358364faec79cb64fd380.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/MINING/curlyhair_mining_strip10.png"
+dest_files=["res://.godot/imported/curlyhair_mining_strip10.png-72660077a10a4166449b5094b4cfab88.ctex"]
 
 [params]
 

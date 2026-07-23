@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://w430x3yj4855"
-path="res://.godot/imported/stopwatch.png-00ce1c9d59dc5d6fe1898ec70456411a.ctex"
+path="res://.godot/imported/stopwatch.png-f3cc9a8b45e817a0435b434c4387bb0d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/UI/stopwatch.png"
-dest_files=["res://.godot/imported/stopwatch.png-00ce1c9d59dc5d6fe1898ec70456411a.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/UI/stopwatch.png"
+dest_files=["res://.godot/imported/stopwatch.png-f3cc9a8b45e817a0435b434c4387bb0d.ctex"]
 
 [params]
 

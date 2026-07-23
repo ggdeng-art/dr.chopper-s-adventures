@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4wjodciud52p"
-path="res://.godot/imported/016326d3-020d-432f-b35b-1eb5b81f99c6.png-89fca24f803331d91515ddd505140ede.ctex"
+path="res://.godot/imported/016326d3-020d-432f-b35b-1eb5b81f99c6.png-dfcefa2d7e91c3f38421a1808a65ef22.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/base_swimming_strip12/016326d3-020d-432f-b35b-1eb5b81f99c6.png"
-dest_files=["res://.godot/imported/016326d3-020d-432f-b35b-1eb5b81f99c6.png-89fca24f803331d91515ddd505140ede.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/base_swimming_strip12/016326d3-020d-432f-b35b-1eb5b81f99c6.png"
+dest_files=["res://.godot/imported/016326d3-020d-432f-b35b-1eb5b81f99c6.png-dfcefa2d7e91c3f38421a1808a65ef22.ctex"]
 
 [params]
 

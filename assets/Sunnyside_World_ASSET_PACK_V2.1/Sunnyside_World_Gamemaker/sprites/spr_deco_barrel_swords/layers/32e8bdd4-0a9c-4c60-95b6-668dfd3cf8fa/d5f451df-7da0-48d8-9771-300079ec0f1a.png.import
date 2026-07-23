@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2rk2hejyutg"
-path="res://.godot/imported/d5f451df-7da0-48d8-9771-300079ec0f1a.png-c7320abf30c6cddfed30a6b998991fef.ctex"
+path="res://.godot/imported/d5f451df-7da0-48d8-9771-300079ec0f1a.png-272d3ce8cf2c441de9692f9a0d77cc31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spr_deco_barrel_swords/layers/32e8bdd4-0a9c-4c60-95b6-668dfd3cf8fa/d5f451df-7da0-48d8-9771-300079ec0f1a.png"
-dest_files=["res://.godot/imported/d5f451df-7da0-48d8-9771-300079ec0f1a.png-c7320abf30c6cddfed30a6b998991fef.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spr_deco_barrel_swords/layers/32e8bdd4-0a9c-4c60-95b6-668dfd3cf8fa/d5f451df-7da0-48d8-9771-300079ec0f1a.png"
+dest_files=["res://.godot/imported/d5f451df-7da0-48d8-9771-300079ec0f1a.png-272d3ce8cf2c441de9692f9a0d77cc31.ctex"]
 
 [params]
 

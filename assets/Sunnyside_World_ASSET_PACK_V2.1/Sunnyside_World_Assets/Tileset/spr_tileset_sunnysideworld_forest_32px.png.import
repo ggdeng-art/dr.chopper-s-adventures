@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq3b7bwv541q8"
-path="res://.godot/imported/spr_tileset_sunnysideworld_forest_32px.png-a294df442c2d39a40a52ad68a670f0d1.ctex"
+path="res://.godot/imported/spr_tileset_sunnysideworld_forest_32px.png-bcb978c0e0b2c30a38f70bc9a89361e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Tileset/spr_tileset_sunnysideworld_forest_32px.png"
-dest_files=["res://.godot/imported/spr_tileset_sunnysideworld_forest_32px.png-a294df442c2d39a40a52ad68a670f0d1.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Tileset/spr_tileset_sunnysideworld_forest_32px.png"
+dest_files=["res://.godot/imported/spr_tileset_sunnysideworld_forest_32px.png-bcb978c0e0b2c30a38f70bc9a89361e9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8bvgm5xcpl0b"
-path="res://.godot/imported/curlyhair_death_strip13.png-1c4cec5cc3522b5c41803f5235594492.ctex"
+path="res://.godot/imported/curlyhair_death_strip13.png-0f98d5971cbd6cb0afacfc1b167e5d65.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/DEATH/curlyhair_death_strip13.png"
-dest_files=["res://.godot/imported/curlyhair_death_strip13.png-1c4cec5cc3522b5c41803f5235594492.ctex"]
+source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/DEATH/curlyhair_death_strip13.png"
+dest_files=["res://.godot/imported/curlyhair_death_strip13.png-0f98d5971cbd6cb0afacfc1b167e5d65.ctex"]
 
 [params]
 
