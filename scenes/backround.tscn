@@ -1,7 +1,0 @@
-[gd_scene format=3 uid="uid://dssl7v2vha8ec"]
-
-[ext_resource type="PackedScene" uid="uid://dkbic3x1weou2" path="res://Angel/new scene.tscn" id="1_jyykb"]
-
-[node name="Node2D" type="Node2D" unique_id=1473556716]
-
-[node name="NewScene" parent="." unique_id=1386550400 instance=ExtResource("1_jyykb")]
