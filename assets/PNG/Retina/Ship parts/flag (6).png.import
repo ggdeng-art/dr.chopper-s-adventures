@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cp6fit30hce02"
-path="res://.godot/imported/flag (6).png-3201135eb988b17d1f1b004f980817de.ctex"
+path="res://.godot/imported/flag (6).png-8bbe5a0bd6c8e0289a96e6018eef58b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Retina/Ship parts/flag (6).png"
-dest_files=["res://.godot/imported/flag (6).png-3201135eb988b17d1f1b004f980817de.ctex"]
+source_file="res://Assets/PNG/Retina/Ship parts/flag (6).png"
+dest_files=["res://.godot/imported/flag (6).png-8bbe5a0bd6c8e0289a96e6018eef58b0.ctex"]
 
 [params]
 

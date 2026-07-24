@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bckqthm24xm8c"
-path="res://.godot/imported/dinghySmall2.png-bd09881c44fe68a7a7defeb7dbbfa7bf.ctex"
+path="res://.godot/imported/dinghySmall2.png-b1d046fae95d01f07c8b94a7930e93ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Retina/Ships/dinghySmall2.png"
-dest_files=["res://.godot/imported/dinghySmall2.png-bd09881c44fe68a7a7defeb7dbbfa7bf.ctex"]
+source_file="res://Assets/PNG/Retina/Ships/dinghySmall2.png"
+dest_files=["res://.godot/imported/dinghySmall2.png-b1d046fae95d01f07c8b94a7930e93ff.ctex"]
 
 [params]
 

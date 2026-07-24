@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqkhyx8b4te6h"
-path="res://.godot/imported/wood (3).png-c85086a79edb06e19bd02af288fc1388.ctex"
+path="res://.godot/imported/wood (3).png-bf449f3d3ff65741aee4cc67a36b2e5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Default size/Ship parts/wood (3).png"
-dest_files=["res://.godot/imported/wood (3).png-c85086a79edb06e19bd02af288fc1388.ctex"]
+source_file="res://Assets/PNG/Default size/Ship parts/wood (3).png"
+dest_files=["res://.godot/imported/wood (3).png-bf449f3d3ff65741aee4cc67a36b2e5e.ctex"]
 
 [params]
 

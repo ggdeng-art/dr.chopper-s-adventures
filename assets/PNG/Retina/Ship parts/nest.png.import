@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8jidsgr17ckn"
-path="res://.godot/imported/nest.png-8b1eb9275d228107da7b1e7f6a9b5eda.ctex"
+path="res://.godot/imported/nest.png-8fbdee85ca2ab3430562dc9f99f7abd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Retina/Ship parts/nest.png"
-dest_files=["res://.godot/imported/nest.png-8b1eb9275d228107da7b1e7f6a9b5eda.ctex"]
+source_file="res://Assets/PNG/Retina/Ship parts/nest.png"
+dest_files=["res://.godot/imported/nest.png-8fbdee85ca2ab3430562dc9f99f7abd2.ctex"]
 
 [params]
 

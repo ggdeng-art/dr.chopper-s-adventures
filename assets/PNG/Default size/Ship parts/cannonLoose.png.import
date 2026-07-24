@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpou6bmuxx48c"
-path="res://.godot/imported/cannonLoose.png-5d6bb03d2c92d11b2febc3b4e83a6fba.ctex"
+path="res://.godot/imported/cannonLoose.png-412a2c0cd98217b576ebab20bf12824e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Default size/Ship parts/cannonLoose.png"
-dest_files=["res://.godot/imported/cannonLoose.png-5d6bb03d2c92d11b2febc3b4e83a6fba.ctex"]
+source_file="res://Assets/PNG/Default size/Ship parts/cannonLoose.png"
+dest_files=["res://.godot/imported/cannonLoose.png-412a2c0cd98217b576ebab20bf12824e.ctex"]
 
 [params]
 

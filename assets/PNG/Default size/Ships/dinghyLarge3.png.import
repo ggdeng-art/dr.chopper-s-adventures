@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://72ugrhdn4u2c"
-path="res://.godot/imported/dinghyLarge3.png-3a36f79c5aa5072b0872780ce2216be2.ctex"
+path="res://.godot/imported/dinghyLarge3.png-a797badfdb8fca3ad224f952c2b9ee3e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Default size/Ships/dinghyLarge3.png"
-dest_files=["res://.godot/imported/dinghyLarge3.png-3a36f79c5aa5072b0872780ce2216be2.ctex"]
+source_file="res://Assets/PNG/Default size/Ships/dinghyLarge3.png"
+dest_files=["res://.godot/imported/dinghyLarge3.png-a797badfdb8fca3ad224f952c2b9ee3e.ctex"]
 
 [params]
 

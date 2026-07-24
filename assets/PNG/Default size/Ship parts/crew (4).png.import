@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cy6nud7fu1i64"
-path="res://.godot/imported/crew (4).png-80fbe514fd6150212d3ba52dfde02d3f.ctex"
+path="res://.godot/imported/crew (4).png-4a270d61004d5dc79d27732bee104c26.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Default size/Ship parts/crew (4).png"
-dest_files=["res://.godot/imported/crew (4).png-80fbe514fd6150212d3ba52dfde02d3f.ctex"]
+source_file="res://Assets/PNG/Default size/Ship parts/crew (4).png"
+dest_files=["res://.godot/imported/crew (4).png-4a270d61004d5dc79d27732bee104c26.ctex"]
 
 [params]
 
