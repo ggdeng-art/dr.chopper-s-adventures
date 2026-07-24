@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hgw344cnor3a"
-path="res://.godot/imported/curlyhair_dig_strip13.png-a2936b8e834318fbe3cb8047988cfe03.ctex"
+path="res://.godot/imported/curlyhair_dig_strip13.png-054e6e4acf80256cbc6cb0dfaf35ff4a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/DIG/curlyhair_dig_strip13.png"
-dest_files=["res://.godot/imported/curlyhair_dig_strip13.png-a2936b8e834318fbe3cb8047988cfe03.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/DIG/curlyhair_dig_strip13.png"
+dest_files=["res://.godot/imported/curlyhair_dig_strip13.png-054e6e4acf80256cbc6cb0dfaf35ff4a.ctex"]
 
 [params]
 

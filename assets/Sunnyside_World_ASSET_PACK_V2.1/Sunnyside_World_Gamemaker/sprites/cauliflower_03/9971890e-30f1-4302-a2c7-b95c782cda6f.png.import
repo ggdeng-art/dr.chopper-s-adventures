@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwxjicik25apn"
-path="res://.godot/imported/9971890e-30f1-4302-a2c7-b95c782cda6f.png-b3b938e1aebac0368cc634737b3bf25e.ctex"
+path="res://.godot/imported/9971890e-30f1-4302-a2c7-b95c782cda6f.png-0655a47051b45348ce61186ba39336bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/cauliflower_03/9971890e-30f1-4302-a2c7-b95c782cda6f.png"
-dest_files=["res://.godot/imported/9971890e-30f1-4302-a2c7-b95c782cda6f.png-b3b938e1aebac0368cc634737b3bf25e.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/cauliflower_03/9971890e-30f1-4302-a2c7-b95c782cda6f.png"
+dest_files=["res://.godot/imported/9971890e-30f1-4302-a2c7-b95c782cda6f.png-0655a47051b45348ce61186ba39336bd.ctex"]
 
 [params]
 

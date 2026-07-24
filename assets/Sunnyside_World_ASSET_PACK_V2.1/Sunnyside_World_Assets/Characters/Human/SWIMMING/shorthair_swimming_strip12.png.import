@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsbrd2ifghpo1"
-path="res://.godot/imported/shorthair_swimming_strip12.png-959e50a9fa1af9ceef74995d7b036dcc.ctex"
+path="res://.godot/imported/shorthair_swimming_strip12.png-d7791f93599683d8a6e6f6ac2653cafb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/SWIMMING/shorthair_swimming_strip12.png"
-dest_files=["res://.godot/imported/shorthair_swimming_strip12.png-959e50a9fa1af9ceef74995d7b036dcc.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/SWIMMING/shorthair_swimming_strip12.png"
+dest_files=["res://.godot/imported/shorthair_swimming_strip12.png-d7791f93599683d8a6e6f6ac2653cafb.ctex"]
 
 [params]
 

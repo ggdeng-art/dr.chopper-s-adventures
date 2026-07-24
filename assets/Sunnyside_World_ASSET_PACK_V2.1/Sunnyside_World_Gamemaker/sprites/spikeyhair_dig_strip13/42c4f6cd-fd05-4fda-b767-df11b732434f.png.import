@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyj2oxxorrmp"
-path="res://.godot/imported/42c4f6cd-fd05-4fda-b767-df11b732434f.png-3c55fa753e20abe18f63c73f0249e437.ctex"
+path="res://.godot/imported/42c4f6cd-fd05-4fda-b767-df11b732434f.png-48e9b8f932a6fe65672e73f9e0b79def.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spikeyhair_dig_strip13/42c4f6cd-fd05-4fda-b767-df11b732434f.png"
-dest_files=["res://.godot/imported/42c4f6cd-fd05-4fda-b767-df11b732434f.png-3c55fa753e20abe18f63c73f0249e437.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spikeyhair_dig_strip13/42c4f6cd-fd05-4fda-b767-df11b732434f.png"
+dest_files=["res://.godot/imported/42c4f6cd-fd05-4fda-b767-df11b732434f.png-48e9b8f932a6fe65672e73f9e0b79def.ctex"]
 
 [params]
 

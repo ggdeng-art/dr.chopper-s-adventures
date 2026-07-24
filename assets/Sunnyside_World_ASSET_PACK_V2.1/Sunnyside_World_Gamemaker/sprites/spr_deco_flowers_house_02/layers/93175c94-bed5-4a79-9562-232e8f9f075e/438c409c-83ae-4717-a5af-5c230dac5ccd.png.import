@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clj7ans3qvdd0"
-path="res://.godot/imported/438c409c-83ae-4717-a5af-5c230dac5ccd.png-48a4b3df159d870b39d6b118262ef34a.ctex"
+path="res://.godot/imported/438c409c-83ae-4717-a5af-5c230dac5ccd.png-35af924cffad03b93c9d29340a8b032b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spr_deco_flowers_house_02/layers/93175c94-bed5-4a79-9562-232e8f9f075e/438c409c-83ae-4717-a5af-5c230dac5ccd.png"
-dest_files=["res://.godot/imported/438c409c-83ae-4717-a5af-5c230dac5ccd.png-48a4b3df159d870b39d6b118262ef34a.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/spr_deco_flowers_house_02/layers/93175c94-bed5-4a79-9562-232e8f9f075e/438c409c-83ae-4717-a5af-5c230dac5ccd.png"
+dest_files=["res://.godot/imported/438c409c-83ae-4717-a5af-5c230dac5ccd.png-35af924cffad03b93c9d29340a8b032b.ctex"]
 
 [params]
 

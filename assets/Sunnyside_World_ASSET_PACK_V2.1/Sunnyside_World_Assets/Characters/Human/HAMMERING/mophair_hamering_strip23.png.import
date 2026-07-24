@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dotldww8y3kpd"
-path="res://.godot/imported/mophair_hamering_strip23.png-8e272fac37dade1b2c4b7f6cfe3c0fc6.ctex"
+path="res://.godot/imported/mophair_hamering_strip23.png-3756d7f2ded358d76f210ee8e19ed74a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/HAMMERING/mophair_hamering_strip23.png"
-dest_files=["res://.godot/imported/mophair_hamering_strip23.png-8e272fac37dade1b2c4b7f6cfe3c0fc6.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/HAMMERING/mophair_hamering_strip23.png"
+dest_files=["res://.godot/imported/mophair_hamering_strip23.png-3756d7f2ded358d76f210ee8e19ed74a.ctex"]
 
 [params]
 

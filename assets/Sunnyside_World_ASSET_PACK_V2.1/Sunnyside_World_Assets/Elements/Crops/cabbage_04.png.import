@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs8i7coop0ovd"
-path="res://.godot/imported/cabbage_04.png-e8b6012e999e465683f539c3e1e3fd25.ctex"
+path="res://.godot/imported/cabbage_04.png-251258fe7655adac72dafcbf7087fcf9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Elements/Crops/cabbage_04.png"
-dest_files=["res://.godot/imported/cabbage_04.png-e8b6012e999e465683f539c3e1e3fd25.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Elements/Crops/cabbage_04.png"
+dest_files=["res://.godot/imported/cabbage_04.png-251258fe7655adac72dafcbf7087fcf9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://v1ysvfggt6kp"
-path="res://.godot/imported/greenbar_00.png-6fa028ca886cab54f22e72232e4ecdf3.ctex"
+path="res://.godot/imported/greenbar_00.png-1b2edb596917542c4636498d46f8d9c9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/UI/greenbar_00.png"
-dest_files=["res://.godot/imported/greenbar_00.png-6fa028ca886cab54f22e72232e4ecdf3.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/UI/greenbar_00.png"
+dest_files=["res://.godot/imported/greenbar_00.png-1b2edb596917542c4636498d46f8d9c9.ctex"]
 
 [params]
 

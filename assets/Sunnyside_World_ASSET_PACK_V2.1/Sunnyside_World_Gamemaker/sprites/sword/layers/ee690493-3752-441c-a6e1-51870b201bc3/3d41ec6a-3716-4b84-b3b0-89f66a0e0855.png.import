@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2px2e0kqta6l"
-path="res://.godot/imported/3d41ec6a-3716-4b84-b3b0-89f66a0e0855.png-b11123529e2a0f9ac9f1dce6441c1870.ctex"
+path="res://.godot/imported/3d41ec6a-3716-4b84-b3b0-89f66a0e0855.png-bc77b85f354eaf8b9305fb4258e7735c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/sword/layers/ee690493-3752-441c-a6e1-51870b201bc3/3d41ec6a-3716-4b84-b3b0-89f66a0e0855.png"
-dest_files=["res://.godot/imported/3d41ec6a-3716-4b84-b3b0-89f66a0e0855.png-b11123529e2a0f9ac9f1dce6441c1870.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Gamemaker/sprites/sword/layers/ee690493-3752-441c-a6e1-51870b201bc3/3d41ec6a-3716-4b84-b3b0-89f66a0e0855.png"
+dest_files=["res://.godot/imported/3d41ec6a-3716-4b84-b3b0-89f66a0e0855.png-bc77b85f354eaf8b9305fb4258e7735c.ctex"]
 
 [params]
 

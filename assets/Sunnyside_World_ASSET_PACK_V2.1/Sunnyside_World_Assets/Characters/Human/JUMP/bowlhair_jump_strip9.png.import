@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdwkj0exn3gfb"
-path="res://.godot/imported/bowlhair_jump_strip9.png-5ad23caf2de522c12f8a83115e33eb34.ctex"
+path="res://.godot/imported/bowlhair_jump_strip9.png-05060ff5995be85025b59b544c4c207d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/JUMP/bowlhair_jump_strip9.png"
-dest_files=["res://.godot/imported/bowlhair_jump_strip9.png-5ad23caf2de522c12f8a83115e33eb34.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Human/JUMP/bowlhair_jump_strip9.png"
+dest_files=["res://.godot/imported/bowlhair_jump_strip9.png-05060ff5995be85025b59b544c4c207d.ctex"]
 
 [params]
 

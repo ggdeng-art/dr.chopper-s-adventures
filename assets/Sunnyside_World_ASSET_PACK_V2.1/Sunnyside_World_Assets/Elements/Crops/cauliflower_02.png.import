@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dewxwwc4vwguo"
-path="res://.godot/imported/cauliflower_02.png-58f3fc0b724fee8b8494f05e920da9e0.ctex"
+path="res://.godot/imported/cauliflower_02.png-37afb47c3708e541473da7d9d2b892cd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Elements/Crops/cauliflower_02.png"
-dest_files=["res://.godot/imported/cauliflower_02.png-58f3fc0b724fee8b8494f05e920da9e0.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Elements/Crops/cauliflower_02.png"
+dest_files=["res://.godot/imported/cauliflower_02.png-37afb47c3708e541473da7d9d2b892cd.ctex"]
 
 [params]
 

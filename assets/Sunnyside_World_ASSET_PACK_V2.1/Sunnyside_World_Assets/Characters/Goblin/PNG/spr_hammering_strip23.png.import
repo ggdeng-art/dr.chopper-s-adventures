@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lvfffjt5efn3"
-path="res://.godot/imported/spr_hammering_strip23.png-a2467ffabb9ba71016bca126a8417cfe.ctex"
+path="res://.godot/imported/spr_hammering_strip23.png-83b2c4a56948bb7611f2123cf5b70f70.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Goblin/PNG/spr_hammering_strip23.png"
-dest_files=["res://.godot/imported/spr_hammering_strip23.png-a2467ffabb9ba71016bca126a8417cfe.ctex"]
+source_file="res://assets/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/Characters/Goblin/PNG/spr_hammering_strip23.png"
+dest_files=["res://.godot/imported/spr_hammering_strip23.png-83b2c4a56948bb7611f2123cf5b70f70.ctex"]
 
 [params]
 
