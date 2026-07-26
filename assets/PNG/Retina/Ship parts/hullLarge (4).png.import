@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doddlotdc1a5i"
-path="res://.godot/imported/hullLarge (4).png-d3d816d5bbb2ef491d4a1c6cdea2c24f.ctex"
+path="res://.godot/imported/hullLarge (4).png-0c5d8587ce0ca94c2e4dc4e7a19dc48a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Retina/Ship parts/hullLarge (4).png"
-dest_files=["res://.godot/imported/hullLarge (4).png-d3d816d5bbb2ef491d4a1c6cdea2c24f.ctex"]
+source_file="res://Assets/PNG/Retina/Ship parts/hullLarge (4).png"
+dest_files=["res://.godot/imported/hullLarge (4).png-0c5d8587ce0ca94c2e4dc4e7a19dc48a.ctex"]
 
 [params]
 

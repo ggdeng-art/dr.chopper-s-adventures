@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1o2nclwujru0"
-path="res://.godot/imported/shipsMiscellaneous_vector.svg-a97cfd8e0cc05061857f70cc0f7bf4da.ctex"
+path="res://.godot/imported/shipsMiscellaneous_vector.svg-634791949033c056a50090457e1b902d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Vector/shipsMiscellaneous_vector.svg"
-dest_files=["res://.godot/imported/shipsMiscellaneous_vector.svg-a97cfd8e0cc05061857f70cc0f7bf4da.ctex"]
+source_file="res://Assets/Vector/shipsMiscellaneous_vector.svg"
+dest_files=["res://.godot/imported/shipsMiscellaneous_vector.svg-634791949033c056a50090457e1b902d.ctex"]
 
 [params]
 

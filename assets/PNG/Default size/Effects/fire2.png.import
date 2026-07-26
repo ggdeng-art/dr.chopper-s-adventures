@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cx2dg0ek426ia"
-path="res://.godot/imported/fire2.png-2137785732154d503d55d204c3e4cafd.ctex"
+path="res://.godot/imported/fire2.png-a86f3f2e5c112075689f9bc66aae7111.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Default size/Effects/fire2.png"
-dest_files=["res://.godot/imported/fire2.png-2137785732154d503d55d204c3e4cafd.ctex"]
+source_file="res://Assets/PNG/Default size/Effects/fire2.png"
+dest_files=["res://.godot/imported/fire2.png-a86f3f2e5c112075689f9bc66aae7111.ctex"]
 
 [params]
 
