@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2hxkowo2epkw"
-path="res://.godot/imported/sailLarge (13).png-b365c282f7458897d84fcac643c9cadc.ctex"
+path="res://.godot/imported/sailLarge (13).png-764de66a047ee08e5edf591ba1225d3a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/PNG/Default size/Ship parts/sailLarge (13).png"
-dest_files=["res://.godot/imported/sailLarge (13).png-b365c282f7458897d84fcac643c9cadc.ctex"]
+source_file="res://Assets/PNG/Default size/Ship parts/sailLarge (13).png"
+dest_files=["res://.godot/imported/sailLarge (13).png-764de66a047ee08e5edf591ba1225d3a.ctex"]
 
 [params]
 
