@@ -1,16 +1,16 @@
-[gd_scene format=3 uid="uid://dkbic3x1weou2"]
+[gd_scene format=3 uid="uid://dljhymjqmc1d8"]
 
-[ext_resource type="Texture2D" uid="uid://bk65d7om0x18x" path="res://assets/background 4/1.png" id="1_jhhxl"]
-[ext_resource type="Texture2D" uid="uid://db3bjsdmgl5em" path="res://assets/background 4/2.png" id="2_ew8k2"]
-[ext_resource type="Texture2D" uid="uid://dx1ju1qwnhblj" path="res://assets/background 4/3.png" id="3_4yeck"]
-[ext_resource type="Texture2D" uid="uid://dfwqnrfxotyru" path="res://assets/background 4/4.png" id="4_u5pss"]
+[ext_resource type="Texture2D" uid="uid://bk65d7om0x18x" path="res://assets/background 4/1.png" id="1_k5rmy"]
+[ext_resource type="Texture2D" uid="uid://db3bjsdmgl5em" path="res://assets/background 4/2.png" id="2_mlcep"]
+[ext_resource type="Texture2D" uid="uid://dx1ju1qwnhblj" path="res://assets/background 4/3.png" id="3_ql68t"]
+[ext_resource type="Texture2D" uid="uid://dfwqnrfxotyru" path="res://assets/background 4/4.png" id="4_416xw"]
 
 [node name="NewScene" type="Node2D" unique_id=1386550400]
 
 [node name="1" type="Sprite2D" parent="." unique_id=31785259]
 position = Vector2(578.5, 324)
 scale = Vector2(2.0121527, 1.9938271)
-texture = ExtResource("1_jhhxl")
+texture = ExtResource("1_k5rmy")
 
 [node name="2" type="Sprite2D" parent="." unique_id=788549177]
 process_mode = 3
@@ -18,7 +18,7 @@ process_priority = 4
 process_physics_priority = -1
 physics_interpolation_mode = 1
 position = Vector2(39, 518)
-texture = ExtResource("2_ew8k2")
+texture = ExtResource("2_mlcep")
 
 [node name="2" type="Sprite2D" parent="2" unique_id=1892594273]
 process_mode = 3
@@ -27,14 +27,14 @@ process_physics_priority = -1
 physics_interpolation_mode = 1
 position = Vector2(1079, -99)
 scale = Vector2(1.2795138, 1.574074)
-texture = ExtResource("2_ew8k2")
+texture = ExtResource("2_mlcep")
 
 [node name="3" type="Sprite2D" parent="." unique_id=1100247163]
 position = Vector2(519, 365)
 scale = Vector2(1.9635416, 1.7345679)
-texture = ExtResource("3_4yeck")
+texture = ExtResource("3_ql68t")
 
 [node name="4" type="Sprite2D" parent="." unique_id=707631815]
 position = Vector2(585, 309)
 scale = Vector2(2.0607638, 2.0771606)
-texture = ExtResource("4_u5pss")
+texture = ExtResource("4_416xw")
