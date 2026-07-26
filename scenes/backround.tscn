@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://dssl7v2vha8ec"]
+
+[ext_resource type="PackedScene" uid="uid://dljhymjqmc1d8" path="res://Angel/Backround.tscn" id="1_h7ho1"]
+
+[node name="Backround" type="Node2D" unique_id=1370900852]
+
+[node name="NewScene" parent="." unique_id=1386550400 instance=ExtResource("1_h7ho1")]
